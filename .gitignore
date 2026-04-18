@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test models
+*.stl
+*.stp
+*.step
+*.obj
+*.ply
+*.3mf
+*.off
