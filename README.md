@@ -1,6 +1,6 @@
 # 3D Print Validator
 
-A fast command-line tool that checks whether a 3D model is suitable for printing - before you waste filament or resin on a failed print.
+A fast command-line tool that checks whether a 3D model is suitable for printing before you waste filament or resin on a failed print.
 
 Detects the most common issues: walls too thin for your nozzle, open meshes, ghost bodies, non-manifold edges, and degenerate faces. Outputs a clear 0–100 score with colour-coded feedback and concrete fix suggestions.
 
